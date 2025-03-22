@@ -1,0 +1,20 @@
+{
+    "VideoWatch": {
+        "item_id": "30626608",
+        "migration": [
+            "2021_02_09_085146_create_sma_video_watches_table.php"
+        ],
+        "names": [
+            "sma_video_watches"
+        ],
+        "versions": [
+            "1.0"
+        ],
+        "url": [
+            "https://example.com/contact"
+        ],
+        "notes": [
+            "This is Parent VideoWatch module for VideoWatch. Thanks for using."
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "TemplateSettings": {
+        "migration": [],
+        "names": [],
+        "versions": [
+            "0.1"
+        ],
+        "url": [
+            "https://example.com/contact"
+        ],
+        "notes": [
+            "This is Template setting module for Email & SMS Template. Thanks for using."
+        ]
+    }
+}
