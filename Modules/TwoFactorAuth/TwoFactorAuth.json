@@ -1,0 +1,15 @@
+{
+    "TwoFactorAuth": {
+        "migration": [],
+        "names": [],
+        "versions": [
+            "1.1=0"
+        ],
+        "url": [
+            "https://example.com/contact"
+        ],
+        "notes": [
+            "This is Two Factor Authentication Add On For Ensure Security To User. Thanks for using."
+        ]
+    }
+}
